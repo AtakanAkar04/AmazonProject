@@ -1,6 +1,6 @@
 BuyBest Application
 
-Overview: BuyBest is a desktop application developed by a team of five students—Atakan Akar, Erdem Uğurlu, Asya Ünal, Seçkin Alp Kargı, and Barış Yaycı—to revolutionize the online shopping experience. This project aims to streamline the process of finding and purchasing products at optimal prices by offering features such as automated purchasing and seller analytics. The app allows users to set desired price points and automatically purchase products when prices meet their preferences, while sellers receive valuable market insights based on user interest.
+Overview: BuyBest is a web application developed by a team of five students—Atakan Akar, Erdem Uğurlu, Asya Ünal, Seçkin Alp Kargı, and Barış Yaycı—to revolutionize the online shopping experience. This project aims to streamline the process of finding and purchasing products at optimal prices by offering features such as automated purchasing and seller analytics. The app allows users to set desired price points and automatically purchase products when prices meet their preferences, while sellers receive valuable market insights based on user interest.
 
 Objectives:
 
