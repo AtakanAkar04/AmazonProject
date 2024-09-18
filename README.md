@@ -26,4 +26,13 @@ Seller Insights and Analytics:
 Premium sellers can access data on user preferences and product price points, providing valuable insights into optimal pricing strategies.
 Sellers receive notifications when demand peaks for certain price points, allowing them to adjust pricing dynamically.
 
+![image](https://github.com/user-attachments/assets/df934bf4-2a6a-4aba-b96b-bffd8096d174)
+
+![image](https://github.com/user-attachments/assets/58a77938-2924-4fa3-a4f1-a7226829e5d1)
+
+![image](https://github.com/user-attachments/assets/b3b211e1-dbbb-4673-9182-d73768d13ec7)
+
+
+
+
 
